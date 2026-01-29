@@ -1,5 +1,5 @@
-import Box from "@/components/Box";
-import { Button } from "@/components/Button";
+import Box from "@/shared/components/Box";
+import { Button } from "@/shared/components/Button";
 
 export default function LibraryPage() {
   return (

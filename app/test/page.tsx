@@ -1,5 +1,4 @@
-import { Button } from "@/components/Button";
-
+import { Button } from "@/shared/components/Button";
 
 export default function TestPage() {
   return (
@@ -7,5 +6,5 @@ export default function TestPage() {
       <h1>Test Page</h1>
       <Button>Click me</Button>
     </div>
-  )
+  );
 }
